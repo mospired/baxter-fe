@@ -1,0 +1,14 @@
+{
+  "name": "baxter-fe",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mospired/baxter-fe.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-cli": "~0.1.9"
+  }
+}
